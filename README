@@ -1,0 +1,5 @@
+This is a Zabbix plugin to monitor CloudStack. 
+
+The original author is Diego Spinola Castro, and it's uses perl-Net-CloudStack (cloud.pl), and this content uses the same license as perl-Net-CloudStack (Artistic and GPL) 
+
+Patches are very welcome. 
